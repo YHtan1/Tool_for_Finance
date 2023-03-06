@@ -1,5 +1,3 @@
-#YH Projects
-
 1.yahoo_scraper
 This file contains code to scrape data from Yahoo Finance to perform financial data analysis
 
