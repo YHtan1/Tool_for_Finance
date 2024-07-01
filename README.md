@@ -5,4 +5,4 @@ I was also unable to find a workaround for dates before 1/1/1970, so anyone that
 # 2. html to pdf
 While studying PCA, I could not find a webpage to convert html to pdf, so I wrote this program to print webpages to pdf format.
 # 3. black scholes grapher
-I wrote this script to plot the greeks for a european option without dividends under the black scholes model
+I wrote this script to plot the greeks for different European options (Vanilla/ Binary Options) without dividends under the Black-Scholes model
